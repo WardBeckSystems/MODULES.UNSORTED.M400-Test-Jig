@@ -1,0 +1,140 @@
+{
+ "drawing": "Modules/UNSORTED/M400/MECHANICAL/1983 - 400-03-401 - SERIES TEST JIG MODULE GUIDE - DRN TR - ENG TR - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/625473613f50a4f0.svg",
+ "sheet": {
+  "number": "B 400-03-401",
+  "title": "M400 SERIES TEST JIG / MODULE GUIDE",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 9.1, 431.6, 298.4],
+ "outlines": {
+  "line": {"rings": 199, "straight": {"n": 2958, "mm": 6369.0}, "curved": {"n": 367, "mm": 471.3}},
+  "text": {"rings": 284, "straight": {"n": 2352, "mm": 2887.9}, "curved": {"n": 701, "mm": 1037.8}},
+  "tb": {"rings": 18, "straight": {"n": 183, "mm": 283.8}, "curved": {"n": 25, "mm": 40.3}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 6971, "straight": {"n": 7084, "mm": 3968.6}, "curved": {"n": 33, "mm": 37.1}},
+   "text": {"paths": 1959, "straight": {"n": 2590, "mm": 2013.4}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 311, "straight": {"n": 353, "mm": 999.9}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 48,
+  "orientation": {"horizontal": {"n": 2680, "mm": 2734.1}, "vertical": {"n": 2433, "mm": 1643.1}, "diagonal": {"n": 4914, "mm": 2604.7}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [182.9, 214.9], "r": 2.9, "kind": "arc", "span": 92, "from": ["centre line"], "start": 274},
+  {"c": [183.7, 214.7], "r": 2.7, "kind": "arc", "span": 188, "from": ["centre line"], "start": 2},
+  {"c": [162.6, 214.5], "r": 2.3, "kind": "arc", "span": 108, "from": ["centre line"], "start": 279},
+  {"c": [231.0, 231.5], "r": 1.7, "kind": "circle", "span": 360, "from": ["centre line", "outline (one edge)"]},
+  {"c": [197.1, 242.9], "r": 1.6, "kind": "arc", "span": 141, "from": ["centre line"], "start": 196},
+  {"c": [196.1, 241.3], "r": 1.3, "kind": "arc", "span": 130, "from": ["centre line"], "start": 114},
+  {"c": [227.7, 231.0], "r": 1.0, "kind": "arc", "span": 167, "from": ["centre line"], "start": 124},
+  {"c": [230.0, 10.1], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 347}
+ ],
+ "boxes": [
+  {"mm": [152.4, 209.0, 194.7, 221.9], "w": 42.3, "h": 13.0, "from": "ring"},
+  {"mm": [150.5, 102.3, 196.9, 157.2], "w": 46.4, "h": 54.9, "from": "ring"},
+  {"mm": [152.5, 104.7, 194.7, 156.7], "w": 42.3, "h": 52.0, "from": "ring"},
+  {"mm": [319.3, 60.2, 331.8, 66.1], "w": 12.5, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [346.1, 60.2, 411.1, 66.1], "w": 65.0, "h": 5.8, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [332.7, 60.2, 345.2, 65.8], "w": 12.5, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [286.2, 41.9, 424.2, 59.2], "w": 138.0, "h": 17.3, "from": "ring", "words": ["WBS", "WARD-BECK", "SYSTEMS"], "in_title_block": true},
+  {
+   "mm": [319.3, 15.3, 424.2, 41.2],
+   "w": 104.9,
+   "h": 25.9,
+   "from": "ring",
+   "words": ["M4OO SERIES TEST JIG", "MODULE GUIDE"],
+   "in_title_block": true
+  },
+  {"mm": [286.3, 35.4, 318.5, 41.0], "w": 32.2, "h": 5.7, "from": "ring", "words": ["DRN:", "T.R"], "in_title_block": true},
+  {"mm": [286.3, 28.3, 318.5, 34.6], "w": 32.2, "h": 6.3, "from": "ring", "words": ["ENG_", "TR"], "in_title_block": true},
+  {"mm": [286.3, 22.0, 318.7, 27.9], "w": 32.4, "h": 5.8, "from": "ring", "words": ["CKD:"], "in_title_block": true},
+  {"mm": [286.3, 15.3, 318.5, 21.4], "w": 32.2, "h": 6.1, "from": "ring", "words": ["APP"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [298.6, 244.4, 318.2, 251.8], "text": "NQIES::"},
+   {"mm": [306.4, 237.1, 334.4, 241.9], "text": "TOLERANCES"},
+   {"mm": [67.4, 225.4, 138.4, 232.8], "text": "128 DIA. & CSK 82\" To 24 DIA"},
+   {"mm": [309.0, 228.4, 316.1, 232.3], "text": "XX"},
+   {"mm": [331.2, 228.4, 338.7, 232.3], "text": "015"},
+   {"mm": [103.8, 221.3, 126.5, 226.8], "text": "2 PLACES"},
+   {"mm": [309.6, 223.5, 318.7, 227.8], "text": "XXX"},
+   {"mm": [331.2, 223.5, 338.7, 227.8], "text": "005"},
+   {"mm": [298.8, 214.4, 361.4, 219.9], "text": "2) REMOVE BURRS SHARP"},
+   {"mm": [362.9, 214.8, 377.6, 219.6], "text": "EDGES"},
+   {"mm": [299.0, 204.2, 329.9, 210.7], "text": "3) MATERIAL"},
+   {"mm": [304.9, 198.4, 351.1, 204.9], "text": ".064 ALUM_ ALLOY"},
+   {"mm": [211.8, 197.1, 221.1, 202.6], "text": "232"},
+   {"mm": [306.8, 191.1, 323.0, 195.4], "text": "FINISH"},
+   {"mm": [171.0, 185.5, 182.4, 191.9], "text": "438"},
+   {"mm": [307.9, 185.2, 322.6, 190.0], "text": "PAINT"},
+   {"mm": [324.7, 185.2, 363.6, 190.8], "text": "TEXTURED GREY"},
+   {"mm": [307.9, 179.8, 344.6, 185.1], "text": "TEXCOTE VINYL"},
+   {"mm": [216.8, 127.4, 229.7, 132.9], "text": "2.00"},
+   {"mm": [168.4, 72.5, 183.1, 79.5], "text": "1.625"},
+   {"mm": [347.8, 66.5, 358.6, 72.0], "text": "SEE"},
+   {"mm": [411.9, 66.1, 421.7, 72.5], "text": "Je;"},
+   {"mm": [319.3, 60.5, 344.6, 65.7], "text": "ISSUE DATE"},
+   {"mm": [369.4, 60.5, 388.8, 65.2], "text": "REVISION"},
+   {"mm": [413.2, 60.5, 422.9, 65.2], "text": "APP"},
+   {"mm": [295.4, 45.6, 419.9, 54.2], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [286.9, 35.6, 309.6, 41.1], "text": "DRN: T.R"},
+   {"mm": [286.9, 29.1, 308.5, 33.9], "text": "ENG_ TR"},
+   {"mm": [334.2, 26.1, 410.9, 34.3], "text": "M4OO SERIES TEST JIG"},
+   {"mm": [286.9, 22.7, 297.1, 27.5], "text": "CKD:"},
+   {"mm": [345.9, 16.4, 394.4, 24.6], "text": "MODULE GUIDE"},
+   {"mm": [287.4, 16.2, 296.0, 20.5], "text": "APP"},
+   {"mm": [294.9, 9.7, 309.0, 15.2], "text": "SCALE"},
+   {"mm": [404.6, 9.7, 418.0, 14.5], "text": "ISSUE"},
+   {"mm": [345.0, 3.5, 381.7, 10.6], "text": "400-03- 401"},
+   {"mm": [297.1, 3.9, 307.4, 9.4], "text": "1:1"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [278.3, 3.6, 431.5, 72.0],
+  "from": "title-block words (training set)",
+  "text": [
+   "SEE",
+   "Je;",
+   "ISSUE DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN: T.R",
+   "ENG_ TR",
+   "M4OO SERIES TEST JIG",
+   "CKD:",
+   "MODULE GUIDE",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "400-03- 401",
+   "1:1"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 400-03-401, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 9–298 mm up",
+  "- **Outlines:** line 199 rings, 2,958 straight (6,369 mm) / 367 curved (471 mm); text 284 rings, 2,352 straight (2,888 mm) / 701 curved (1,038 mm); tb 18 rings, 183 straight (284 mm) / 25 curved (40.3 mm)",
+  "- **Centre lines:** 9,241 paths (48 closed); straight 6,982 mm, curved 37.1 mm; horizontal 2,734 mm, vertical 1,643 mm, diagonal 2,605 mm",
+  "- **Circles and arcs:** 1 circles, 7 arcs; largest r 1.7 @ (231.0, 231.5)",
+  "- **Closed boxes:** 12 (9 in the title block)",
+  "- **Words (OCR):** 46 in 36 lines: NQIES:: · TOLERANCES · 128 DIA. & CSK 82\" To 24 DIA · XX · 015 · 2 PLACES · XXX · 005 · 2) REMOVE BURRS SHARP · EDGES · 3) MATERIAL · .064 ALUM_ ALLOY",
+  "- **Title block:** (278, 4)–(432, 72) mm: SEE · Je; · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: T.R · ENG_ TR · M4OO SERIES TEST JIG · CKD: · MODULE GUIDE · APP · SCALE · ISSUE · 400-03- 401 · 1:1"
+ ]
+}
