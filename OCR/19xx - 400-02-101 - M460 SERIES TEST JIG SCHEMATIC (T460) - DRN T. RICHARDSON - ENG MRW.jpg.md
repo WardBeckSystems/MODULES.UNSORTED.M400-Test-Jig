@@ -34,7 +34,7 @@ Wiki page: [M400](../../../../PAGES/M400.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 84 connected wire groups from 1,011 runs
 
-Every curve, box, word and wire group: [19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) - DRN T. RICHARDSON - ENG MRW (traced).json](../SCHEMATICS/19xx%20-%20400-02-101%20-%20M460%20SERIES%20TEST%20JIG%20SCHEMATIC%20(T460)%20-%20DRN%20T.%20RICHARDSON%20-%20ENG%20MRW%20(traced).json) (the CAD file: `19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) - DRN T. RICHARDSON - ENG MRW (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) - DRN T. RICHARDSON - ENG MRW (traced).json](../SCHEMATICS/19xx%20-%20400-02-101%20-%20M460%20SERIES%20TEST%20JIG%20SCHEMATIC%20%28T460%29%20-%20DRN%20T.%20RICHARDSON%20-%20ENG%20MRW%20%28traced%29.json) (the CAD file: `19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) - DRN T. RICHARDSON - ENG MRW (traced).dxf`).
 
 ## Full text
 

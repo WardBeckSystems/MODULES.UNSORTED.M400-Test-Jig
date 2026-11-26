@@ -31,7 +31,7 @@ Wiki page: [M400](../../../../PAGES/M400.md)
 - **Circles and arcs:** 6 circles, 12 arcs; largest r 1.8 @ (270.6, 329.8), r 1.6 @ (56.4, 201.0), r 1.6 @ (186.1, 296.1), r 1.3 @ (270.8, 349.1)
 - **Wiring (first pass):** 53 connected wire groups from 634 runs
 
-Every curve, box, word and wire group: [19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) - DRN T.RICHARDSON - ENG MRW (2) (traced).json](../SCHEMATICS/19xx%20-%20400-02-101%20-%20M460%20SERIES%20TEST%20JIG%20SCHEMATIC%20(T460)%20-%20DRN%20T.RICHARDSON%20-%20ENG%20MRW%20(2)%20(traced).json) (the CAD file: `19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) - DRN T.RICHARDSON - ENG MRW (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) - DRN T.RICHARDSON - ENG MRW (2) (traced).json](../SCHEMATICS/19xx%20-%20400-02-101%20-%20M460%20SERIES%20TEST%20JIG%20SCHEMATIC%20%28T460%29%20-%20DRN%20T.RICHARDSON%20-%20ENG%20MRW%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) - DRN T.RICHARDSON - ENG MRW (2) (traced).dxf`).
 
 ## Full text
 

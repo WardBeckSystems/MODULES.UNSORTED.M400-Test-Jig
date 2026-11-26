@@ -31,7 +31,7 @@ Photo of the M460 series test jig schematic. Title block at bottom left reading 
 - **Circles and arcs:** 5 circles, 7 arcs; largest r 1.6 @ (52.2, 204.4), r 1.6 @ (182.7, 300.6), r 1.5 @ (269.4, 324.5), r 1.4 @ (267.7, 354.2)
 - **Wiring (first pass):** 41 connected wire groups from 454 runs
 
-Every curve, box, word and wire group: [19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) (2) (traced).json](../SCHEMATICS/19xx%20-%20400-02-101%20-%20M460%20SERIES%20TEST%20JIG%20SCHEMATIC%20(T460)%20(2)%20(traced).json) (the CAD file: `19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) (2) (traced).json](../SCHEMATICS/19xx%20-%20400-02-101%20-%20M460%20SERIES%20TEST%20JIG%20SCHEMATIC%20%28T460%29%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) (2) (traced).dxf`).
 
 ## Full text
 
