@@ -1,6 +1,6 @@
 # M400 Test Jig · Unsorted
 
-Ward-Beck Systems M400, 1983|16. Wiki page: [M400 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M400.html)
+Ward-Beck Systems M400, 1983|16. Wiki page: [M400 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M400-Test-Jig/)
 
 | Folder | What is in it | Files |
 |---|---|---|

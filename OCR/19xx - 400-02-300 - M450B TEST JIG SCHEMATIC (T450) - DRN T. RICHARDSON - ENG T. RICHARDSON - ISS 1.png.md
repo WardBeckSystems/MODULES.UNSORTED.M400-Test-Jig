@@ -1,5 +1,5 @@
 # 19xx - 400-02-300 - M450B TEST JIG SCHEMATIC (T450) - DRN T. RICHARDSON - ENG T. RICHARDSON - ISS 1.png
-Wiki page: [M400](../../../../PAGES/M400.md)
+Wiki page: [M400](../)
 
 
 - **Year:** unknown (title block (read by eye))

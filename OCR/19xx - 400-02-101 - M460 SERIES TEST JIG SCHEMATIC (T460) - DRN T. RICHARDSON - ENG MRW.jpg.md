@@ -1,5 +1,5 @@
 # 19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460) - DRN T. RICHARDSON - ENG MRW.jpg
-Wiki page: [M400](../../../../PAGES/M400.md)
+Wiki page: [M400](../)
 
 
 - **Year:** unknown (title block (read by eye))

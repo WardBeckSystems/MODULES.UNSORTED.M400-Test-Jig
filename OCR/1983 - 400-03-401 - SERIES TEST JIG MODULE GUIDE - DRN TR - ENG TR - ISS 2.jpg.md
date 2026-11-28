@@ -1,5 +1,5 @@
 # 1983 - 400-03-401 - SERIES TEST JIG MODULE GUIDE - DRN TR - ENG TR - ISS 2.jpg
-Wiki page: [M400](../../../../PAGES/M400.md)
+Wiki page: [M400](../)
 
 
 - **Year:** 1983 (title block date)
